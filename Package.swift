@@ -1,4 +1,4 @@
-// swift-tools-version:5.3
+// swift-tools-version:5.1
 
 import PackageDescription
 
@@ -23,7 +23,7 @@ let package = Package(
 //            "PIX/PIXs/Effects/Single/DeepLabPIX.swift",
             "PIX/PIXs/Output/SyphonOutPIX.swift",
             "PIX/PIXs/Content/Resource/SyphonInPIX.swift",
-//            "Other/Bridging-Header-iOS.h",
+            "Other/Bridging-Header-iOS.h",
 //            "Other/Bridging-Header-macOS.h",
 //            "Other/BridgingHeader.h",
             "PIX/Auto/PIXUIs.stencil",
